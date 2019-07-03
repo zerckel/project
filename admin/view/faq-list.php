@@ -10,7 +10,6 @@
         <section class="col-9">
             <header class="pb-4 d-flex justify-content-between">
                 <h4>Liste des Questions / Reponses</h4>
-                <a class="btn btn-primary" href="?action=add&option=faq&cat">Ajouter une categorie</a>
                 <a class="btn btn-primary" href="?action=add&option=faq">Ajouter une Q/R</a>
             </header>
 
