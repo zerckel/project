@@ -28,11 +28,11 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/scss/css.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-399">
+                <state relative-caret-position="6785">
                   <caret line="295" column="7" selection-start-line="295" selection-start-column="2" selection-end-line="295" selection-end-column="7" />
                 </state>
               </provider>
@@ -41,7 +41,7 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/account.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-299">
+                <state relative-caret-position="23">
                   <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
                 </state>
               </provider>
@@ -59,11 +59,11 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/scss/css.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="759">
+                <state relative-caret-position="3105">
                   <caret line="135" column="3" selection-start-line="135" selection-start-column="3" selection-end-line="135" selection-end-column="3" />
                 </state>
               </provider>
@@ -73,7 +73,7 @@
             <entry file="file://$PROJECT_DIR$/partials/tools.php">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="345">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
                 </state>
               </provider>
             </entry>
@@ -81,7 +81,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/sendAjax.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="452">
+                <state relative-caret-position="2829">
                   <caret line="123" selection-start-line="123" selection-end-line="123" />
                 </state>
               </provider>
@@ -90,7 +90,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/admin/view/user-form.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="644">
+                <state relative-caret-position="1495">
                   <caret line="65" column="47" selection-start-line="65" selection-start-column="47" selection-end-line="65" selection-end-column="47" />
                 </state>
               </provider>
@@ -99,8 +99,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/admin/model/user-form.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-190">
-                  <caret line="24" column="30" lean-forward="true" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
+                <state relative-caret-position="552">
+                  <caret line="24" column="30" selection-start-line="24" selection-start-column="30" selection-end-line="24" selection-end-column="30" />
                 </state>
               </provider>
             </entry>
@@ -117,7 +117,7 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/assets/script/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="268">
+                <state relative-caret-position="3818">
                   <caret line="166" column="29" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="29" />
                 </state>
               </provider>
@@ -326,6 +326,7 @@
       <workItem from="1561299181458" duration="8475000" />
       <workItem from="1561471149009" duration="861000" />
       <workItem from="1561472294586" duration="205024000" />
+      <workItem from="1562130135963" duration="227000" />
     </task>
     <servers />
   </component>
@@ -345,10 +346,10 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.12153518" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.12260128" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32887402" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32887402" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Run" order="4" />
