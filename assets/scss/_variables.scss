@@ -1,0 +1,61 @@
+
+$blue : #d0e0f4;
+$green : #8CC798;
+$grey : #f7f6f6;
+$typo_title : Palatino linotype bold;
+$typo_content : Myanmar text;
+
+@for $i from 1 through 10{
+  .zIndex-#{$i} {
+    z-index: $i;
+  }
+}
+
+//display Flex
+%flex{
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex-column-around {
+  @extend %flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+@mixin flex-column-flexEnd-around {
+  @extend %flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+@mixin flex-row-flexEnd-around {
+  @extend %flex;
+  align-items: flex-end;
+  justify-content: space-around;
+}
+@mixin flex-row-center {
+  @extend %flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+@mixin flex-row-around {
+  @extend %flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+@mixin flex-column {
+  @extend %flex;
+  flex-direction: column;
+}
+
+//animation
+
+@mixin animation ($name, $time, $property){
+  -webkit-animation: $name $time $property;
+  -o-animation: $name $time $property;
+  animation: $name $time $property;
+}
